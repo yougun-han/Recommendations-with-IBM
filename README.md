@@ -5,9 +5,8 @@
 2. [Getting Started](#gettingstarted)
     1. [File Description](#FileDescription)
     2. [Run Program](#RunProgram)
-3. [Output(WebApp)](#Output)
-4. [Author](#Author)
-5. [Acknowledgements](#Acknowledgements)
+3. [Author](#Author)
+4. [Acknowledgements](#Acknowledgements)
 
 ## Description <a name="Description"></a>
 This project is completed as a part of Udacity Data Scientist Nanodegree Program.
